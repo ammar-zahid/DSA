@@ -1,5 +1,7 @@
+package Intro_To_JAVA;
+
 public class Hello {
     public static void main(String[] args) {
-        System.out.println("Hello, Started DSA");
+        System.out.print("Hello, World");
     }
 }
